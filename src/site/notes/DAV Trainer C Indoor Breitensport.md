@@ -5,8 +5,19 @@
 
 # Plan zur Vorbereitung auf den Trainer C Kurs
 
-- Persönliches Können
-	- Kletterleistung (6+)
+## 3 Prüfungen (siehe Prüfungsordnung APO TCSPI.pdf)
+
+- Persönliches Können (Leistung + Technik-Demo)
+	- Leistungsprüfung (6+)
+		- 2 Routen müssen rotpunkt geklettert werden
+		- 3 mögliche Routen werden vorgegeben
+		- 4 Versuche Maximum
+		- Zeit: max. 120 min
 	- Technikdemonstration
-		- Phasen müssen erkennbar sein
+		- 2 Wandbereiche vorgegeben
+		- Phasen + Bewegungsmerkmale (jeweils frontal und eingedreht) müssen deutlich ("übertrieben") erkennbar sein
 - Lehreignung
+	- 20 minütige Lehrprobe
+	- ==Sicherheit über Allem!==
+	- methodisch strukturiert
+	- fachlich richtig
