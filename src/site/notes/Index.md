@@ -6,8 +6,3 @@
 # Klettern
 
 - [[DAV Trainer C Indoor Breitensport|DAV Trainer C Indoor Breitensport]]
-
-```python
-if __name__ == '__main__':
-	print('nein')
-```
