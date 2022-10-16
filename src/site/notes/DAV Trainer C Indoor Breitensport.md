@@ -24,12 +24,24 @@
 
 ### Prüfung Lehreignung
 
+==Prüfungskriterien==
+1. **Sicherheit** über Allem!
+2. Fachlich richtig!
+3. Themenformulierung genau verstehen! (nicht das Thema verfehlen)
+
+0. Gelände
+	- Gelände auswählen, nachdem Struktur/Aufau steht
 1. Einleitung (~1 bis 5 min)
 	- Begrüßung
 	- Thema
 	- Zielsetzung
 2. Hauptteil (~ 15 min)
+	- "Hohe Übungsintensität" => Konzept: Theorie + Praxis mit deutlichem Schwerpunkt auf **Praxis**! (Machen, machen, machen, ...)
+	- Klaren Zeitplan einhalten
+	- Konzentration aufs Wesentliche
 3. Schluss (~ 1 min)
+	- **LZK** (**L**ern**Z**iel**K**ontrolle)
+	- Ausblick (Neugier wecken)
 
 
 | nein | danke |
