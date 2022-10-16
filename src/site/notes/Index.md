@@ -5,4 +5,4 @@
 
 # Klettern
 
-- [[DAV Trainer C Indoor Breitensport|DAV Trainer C Indoor Breitensport]]
+- [[DAV Trainer C Indoor Breitensport - Prüfungen|DAV Trainer C Indoor Breitensport - Prüfungen]]
