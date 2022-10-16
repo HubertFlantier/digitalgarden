@@ -21,3 +21,17 @@
 	- ==Sicherheit über Allem!==
 	- methodisch strukturiert
 	- fachlich richtig
+
+### Prüfung Lehreignung
+
+1. Einleitung (~1 bis 5 min)
+	- Begrüßung
+	- Thema
+	- Zielsetzung
+2. Hauptteil (~ 15 min)
+3. Schluss (~ 1 min)
+
+
+| nein | danke |
+| ---- | ----- |
+| Hans | Wurst      |
