@@ -24,10 +24,13 @@
 
 ### Prüfung Lehreignung
 
-==Prüfungskriterien==
+#### Prüfungskriterien
+
 1. **Sicherheit** über Allem!
 2. Fachlich richtig!
 3. Themenformulierung genau verstehen! (nicht das Thema verfehlen)
+
+#### Ablauf
 
 0. Gelände
 	- Gelände auswählen, nachdem Struktur/Aufau steht
@@ -43,7 +46,12 @@
 	- **LZK** (**L**ern**Z**iel**K**ontrolle)
 	- Ausblick (Neugier wecken)
 
+#### Bewertung
 
-| nein | danke |
-| ---- | ----- |
-| Hans | Wurst      |
+1. Sicherheit
+2. Gelände
+3. Übungsintensität
+4. Fachliche Richtigkeit
+5. Einleitung
+6. Hauptteil
+7. Schluss
