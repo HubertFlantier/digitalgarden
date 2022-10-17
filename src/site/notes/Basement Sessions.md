@@ -12,7 +12,7 @@
 - *"Slow is smooth and smooth is fast."*
 
 1. [ ] Reverse Δ
-2. [ ] … TBA
+2. [ ] Sidemount Escape (GFF)
 
 ## [Position Game](https://www.bjjflowcharts.com/blogs/academy/train-like-the-death-squad) (~ 10 min per Position?)
 
@@ -36,7 +36,7 @@
 
 - 1700 -- 2000
 - ~60 min Foot Lock
-- inkl. Technique Videos
-	- BJJ Flowcharts
-	- Roy Dean
+	- incl. Technique Videos
+		- BJJ Flowcharts
+		- Roy Dean
 - Rollen (60? min)
