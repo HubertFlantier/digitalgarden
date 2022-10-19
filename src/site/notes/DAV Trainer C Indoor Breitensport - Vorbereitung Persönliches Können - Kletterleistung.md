@@ -15,7 +15,7 @@
 - 1. Session pro Woche für die **Technik/spezifische Kraft** fürs Klettern
 - 1. Session pro Woche für die **spezifische Ausdauser** fürs Klettern
 - 1. Session pro Woche **Projektieren**
-- (1. Session pro Woche ergänzendes **Krafttraining**)
+- evtl. 1. Session pro Woche ergänzendes **Krafttraining**
 
 ## Technik/Kraft - Bouldern
 
