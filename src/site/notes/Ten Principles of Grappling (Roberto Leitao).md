@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/ten-principles-of-grappling-roberto-leitao/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+dg-publish: true
 ---
-
 
 # 1. If I don’t know, I will not allow.
 
