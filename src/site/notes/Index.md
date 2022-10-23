@@ -5,6 +5,7 @@
 
 # Klettern
 
+- [[DAV Kurs Template|DAV Kurs Template]]
 - [[DAV Trainer C Indoor Breitensport - Prüfungen|DAV Trainer C Indoor Breitensport - Prüfungen]]
 - [[DAV Trainer C Indoor Breitensport - Vorbereitung Persönliches Können - Kletterleistung|DAV Trainer C Indoor Breitensport - Vorbereitung Persönliches Können - Kletterleistung]]
 
@@ -18,7 +19,7 @@
 
 ## Basic
 
-- Basic 2 - Mount/BackMount (2009-08-01)
+- [[Basic 2 - Mount+BackMount|Basic 2 - Mount+BackMount]] (2009-08-01)
 - [[Basic 3 - Guard|Basic 3 - Guard]] (2009-09-05)
 - Basic 4 - Halfguard/Knee on Stomach (2009-10-03)
 - Basic 5 - Nord-Süd/Band (2009-11-07)
