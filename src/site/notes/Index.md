@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/index/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":true,"dgShowInlineTitle":false}
 ---
 
 
@@ -15,15 +15,15 @@
 - [[Basement Sessions|Basement Sessions]]
 - [[Lifting for BJJ|Lifting for BJJ]]
 
-# Luta Livre Notes anno 2010
+# Luta Livre Notes anno 2009/2010
 
 ## Basic
 
 - [[Basic 2 - Mount+BackMount|Basic 2 - Mount+BackMount]] (2009-08-01)
 - [[Basic 3 - Guard|Basic 3 - Guard]] (2009-09-05)
-- Basic 4 - Halfguard/Knee on Stomach (2009-10-03)
-- Basic 5 - Nord-Süd/Band (2009-11-07)
-- Basic 6 - Clinch/Takedowns (2009-12-12)
+- Basic 4 - Halfguard+Knee on Stomach (2009-10-03)
+- Basic 5 - Nord-Süd+Band (2009-11-07)
+	- Basic 6 - Clinch/+Takedowns (2009-12-12)
 - Basic 7 - Vave Tudo (2010-01-02)
 
 ## Advanced
