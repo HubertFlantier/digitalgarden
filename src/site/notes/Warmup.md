@@ -16,10 +16,18 @@
 
 2.  Round 1
 	- 1 Pull Up
-    - 1 Push Up
-    - 1 slow Dive-Bomber Push Up
-    - 1 slow Full ROM Squat
-    - 1 Burpee
-    -  5 Jumping Jacks
+	- 1 Push Up
+	- 1 slow Dive-Bomber Push Up
+	- 1 slow Full ROM Squat
+	- 1 Burpee
+	- 5 Jumping Jacks
+
+3. Round 2
+	- 2 Pull Up
+	- 2 Push Up
+	- 2 slow Dive-Bomber Push Up
+	- 2 slow Full ROM Squat
+	- 2 Burpee
+	- 10 Jumping Jacks
 
 ... continue to Round 5
