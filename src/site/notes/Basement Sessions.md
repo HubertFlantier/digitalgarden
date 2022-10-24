@@ -5,7 +5,7 @@
 
 # Blueprint
 
-## Technique Acquisition (2x ~30 min)
+## Technique Acquisition (60 min)
 
 1. [ ] Defensive Technique (30 min)
 2. [ ] Offensive Technique (30 min)
