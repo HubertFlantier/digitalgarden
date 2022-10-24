@@ -12,10 +12,12 @@
 
 # Struktur/Idee
 
-- 1. Session pro Woche für die **Technik/spezifische Kraft** fürs Klettern
-- 1. Session pro Woche für die **spezifische Ausdauser** fürs Klettern
-- 1. Session pro Woche **Projektieren**
-- evtl. 1. Session pro Woche ergänzendes **Krafttraining**
+- eine Session pro Woche für die **Technik/spezifische Kraft** fürs Klettern
+- eine Session pro Woche für die **spezifische Ausdauser** fürs Klettern
+- eine Session pro Woche **Projektieren**
+- evtl. eine Session pro Woche ergänzendes **Krafttraining**
+
+Wenn eine spezifische Schwäche bekannt ist, kann entsprechend ein Schwerpunkt auf diese Schwäche/Session gelegt werden.
 
 ## Technik/Kraft - Bouldern
 
