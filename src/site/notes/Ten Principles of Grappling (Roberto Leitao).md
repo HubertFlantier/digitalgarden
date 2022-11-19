@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/ten-principles-of-grappling-roberto-leitao/"}
 ---
+
 
 # 1. If I don’t know, I will not allow.
 
