@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dav-trainer-c-indoor-breitensport-pruefungen/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/dav-trainer-c-indoor-breitensport-pruefungen/"}
 ---
 
 
