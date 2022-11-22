@@ -3,6 +3,8 @@
 ---
 
 
+> Copied! Just google it!
+
 # 1. If I don’t know, I will not allow.
 
 **If you do not know what it is that your opponent is attempting to do, do not let him do it. A strong opponent with little knowledge in grappling who obeys this principal will be tuff to defeat. Grappling is a continuous process. You have to block your opponent’s steps. This is the most important principal.**
