@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/warmup/"}
+dg-publish: true
 ---
-
 
 # Jocko Style Warmup
 1.  Round 0
