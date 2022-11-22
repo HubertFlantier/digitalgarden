@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/basement-sessions/"}
+dg-publish: true
 ---
-
 
 # Blueprint
 
