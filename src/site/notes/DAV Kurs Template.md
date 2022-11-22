@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/dav-kurs-template/"}
+dg-publish: true
 ---
-
 
 # Vorbereitung
 
