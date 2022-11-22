@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/dav-trainer-c-indoor-breitensport-vorbereitung-persoenliches-koennen-kletterleistung/"}
+dg-publish: true
 ---
-
 
 # Generelles
 
