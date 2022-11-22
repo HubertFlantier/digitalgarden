@@ -15,6 +15,7 @@
 # Zutaten
 
 - [ ] 5 EL Magerquark
+- [ ] 1 Ei
 - [ ] 3 EL Haferflocken
 - [ ] 1 TL Backpulver
 
