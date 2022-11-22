@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/thunfischsalat/"}
 ---
 
-
 |         |      |
 | ------- | ---- |
 | energie | kcal |
