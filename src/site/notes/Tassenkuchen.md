@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/tassenkuchen/"}
+dg-publish: true
 ---
-
 
 |         |          |
 | ------- | -------- |
