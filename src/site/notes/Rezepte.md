@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/rezepte/"}
+dg-publish: true
 ---
-
 
 # Hintergrund
 
@@ -16,12 +15,12 @@
 
 # Rezepte
 
-- [[Thunfischsalat\|Thunfischsalat]]
-- [[Thunfisch-Bowl\|Thunfisch-Bowl]]
-- [[Meal-Prep-Pot (Marokkanisch)\|Meal-Prep-Pot (Marokkanisch)]]
-- [[Meal-Prep-Pot (Ramennudel+Sesam)\|Meal-Prep-Pot (Ramennudel+Sesam)]]
-- [[Tassenkuchen\|Tassenkuchen]]
-- [[Bananen-Chia-Pancakes\|Bananen-Chia-Pancakes]]
-- [[Kokos-Milchreis\|Kokos-Milchreis]]
+- [[Thunfischsalat|Thunfischsalat]]
+- [[Thunfisch-Bowl (2 Portionen)|Thunfisch-Bowl (2 Portionen)]]
+- [[Meal-Prep-Pot (Marokkanisch)|Meal-Prep-Pot (Marokkanisch)]]
+- [[Meal-Prep-Pot (Ramennudel+Sesam)|Meal-Prep-Pot (Ramennudel+Sesam)]]
+- [[Tassenkuchen|Tassenkuchen]]
+- [[Bananen-Chia-Pancakes|Bananen-Chia-Pancakes]]
+- [[Kokos-Milchreis|Kokos-Milchreis]]
 
-- [[Post-Workout-Shake (high intensity ∨ 1h+)\|Post-Workout-Shake (high intensity ∨ 1h+)]]
+- [[Post-Workout-Shake (high intensity ∨ 1h+)|Post-Workout-Shake (high intensity ∨ 1h+)]]
