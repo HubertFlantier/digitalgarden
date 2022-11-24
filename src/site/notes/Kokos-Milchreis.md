@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/kokos-milchreis/"}
+dg-publish: true
 ---
-
 
 |         |          |
 | ------- | -------- |
