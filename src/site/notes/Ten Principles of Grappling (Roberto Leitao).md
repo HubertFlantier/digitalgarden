@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/ten-principles-of-grappling-roberto-leitao/"}
+dg-publish: true
 ---
-
 
 > Copied! Just google it!
 
