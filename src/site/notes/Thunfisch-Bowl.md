@@ -1,19 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/thunfisch-bowl/"}
+{"dg-publish":true,"permalink":"/thunfisch-bowl/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
 ---
 
 
-|         |      |
-| ------- | ---- |
-| energie | kcal |
-| kh      | g    |
-| ew      | g    |
-| fett    | g    |
-| zucker  | g    |
-| fiber   | g    | 
+|         |          |
+| ------- | -------- |
+| energie | 658 kcal |
+| kh      | 79 g     |
+| ew      | 38 g     |
+| fett    | 18 g     |
+| zucker  | 8 g      |
+| fiber   | 11 g     | 
 
 # Zutaten
 
+- [ ] 200 g Natur- oder Sushi-Reis
 - [ ] 1 Frühlingszwiebel
 - [ ] 1 Dose Thunfisch im eigenen Saft
 - [ ] 100 g körniger Frischkäse
@@ -25,14 +26,16 @@
 
 # Zubereitung
 
-1. abgetropften *Thunfisch* …
+1. *Reis* in Salzwasser kochen (siehe Packungsanweisung) …
+	1. … in eine Schüssel geben
+2. abgetropften *Thunfisch* …
 	1. … mit *Frischkäse* + *Frühlingszwiebelringen* vermischen …
 	2. … auf den Reis geben
-2. *Avocado* + *Paprika* in Scheiben schneiden …
+3. *Avocado* + *Paprika* in Scheiben schneiden …
 	1. … auf den Reis geben
-3. *Karotte* in dünne Scheiben (Sparschäler) …
+4. *Karotte* in dünne Scheiben (Sparschäler) …
 	1. … auf den Reis geben
-4. *Gurke* in Würfeln …
+5. *Gurke* in Würfeln …
 	1. … auf den Reis geben
-5.  *Sesam* …
+6.  *Sesam* …
 	1. …darüberstreuen
