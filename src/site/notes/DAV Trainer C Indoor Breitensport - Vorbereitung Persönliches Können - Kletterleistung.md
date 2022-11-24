@@ -1,13 +1,14 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/dav-trainer-c-indoor-breitensport-vorbereitung-persoenliches-koennen-kletterleistung/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
 ---
+
 
 # Generelles
 
 - Routen der Schwierigkeit *6+* können die meisten ohne spezifisches Training abreißen, wenn sie einfach lange genug geklettert sind ("Klettererfahren"/"Trainingsalter") ([6 auf 7 & 7 auf 8](https://www.outdoor-magazin.com/klettern/weg-vom-plateau/))
 - Wir sprechen hier von intensiver Vorbereitung in kurzer Zeit, z.B. nach längerer Kletter-Pause und wenig Zeit bis Beginn des Lehrgangs
 - Sicherheit über Allem: Verletzungen vermeiden!
-	- vor jeder Session unbedingt aufwärmen -> [[Warmup\|Warmup]]
+	- vor jeder Session unbedingt aufwärmen -> [[Warmup|Warmup]]
 
 # Struktur/Idee
 
