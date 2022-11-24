@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/meal-prep-pot-marokkanisch/"}
+dg-publish: true
 ---
-
 
 |         |          |
 | ------- | -------- |
