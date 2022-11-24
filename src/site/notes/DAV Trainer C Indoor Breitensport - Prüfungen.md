@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/dav-trainer-c-indoor-breitensport-pruefungen/"}
+dg-publish: true
 ---
-
 
 # Prüfungen Trainer C (bestehen/nicht bestehen)
 
@@ -68,4 +67,4 @@ Zitat aus der Prüfungsordnung Punkt *3.7.2 Wiederholung der Prüfungen im LG 2*
 > Wurde **nur das Persönliche Können** (Leistungsüberprüfung und/ oder Technikdemonstration) **nicht bestanden**, kann dieses bei einem Lehrgang gleichen Typs, frühestens nach 6 Monaten, wiederholt werden. Die Prüfung des Persönlichen Könnens kann bis zu zweimal wiederholt werden.
 
 Laut meinen Ausbildern schlägt man dann an einem Tag nur für diese Prüfung bei einem anderen Lehrgang auf.
-Das bedeutet weiterhin, dass alle vermittelten Inhalte bereits während des ersten Lehrgangs, bei dem die Prüfung nicht bestanden wurde, mitgenommen wurden.
+Das bedeutet weiterhin, dass alle vermittelten Inhalte bereits während des ersten Lehrgangs, bei dem die Prüfung nicht bestanden wurde, mit genommen wurden.
