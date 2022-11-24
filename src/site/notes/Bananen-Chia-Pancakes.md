@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/bananen-chia-pancakes/"}
+dg-publish: true
 ---
-
 
 |         |          |
 | ------- | -------- |
