@@ -55,3 +55,14 @@
 5. Einleitung
 6. Hauptteil
 7. Schluss
+
+# Nichtbestehen der Leistungsprüfung
+
+- laut PO sollte man nicht nach hause geschickt werden weil man **nur die Leistungsprüfung** nicht besteht
+	- da diese Prüfung laut PO innerhalb von 6 Monaten nachgeholt werden kann sollte der Rest des Lehrgangs normal durchgeführt werden (die Woche (Bildungs-)Urlaub hat man eh schon)
+- anders sieht es aus, wenn man mehrere Prüfungen nicht besteht oder **"Defizite in der Sicherungskompetenz"** auftreten
+- siehe PO
+
+Zitat aus der Prüfungsordnung Punkt *3.7.2 Wiederholung der Prüfungen im LG 2*:
+
+> Wurde **nur das Persönliche Können** (Leistungsüberprüfung und/ oder Technikdemonstration) **nicht bestanden**, kann dieses bei einem Lehrgang gleichen Typs, frühestens nach 6 Monaten, wiederholt werden. Die Prüfung des Persönlichen Könnens kann bis zu zweimal wiederholt werden.
