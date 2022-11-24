@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/meal-prep-pot-ramennudel-sesam/"}
+dg-publish: true
 ---
-
 
 |         |          |
 | ------- | -------- |
