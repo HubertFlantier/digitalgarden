@@ -2,6 +2,14 @@
 {"dg-publish":true,"permalink":"/pizza-in-denmark/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
 ---
 
+
+# TODOs
+
+- [ ] Rezept auf 10 Personen skalieren
+- [ ] diverse Beläge festlegen
+- [ ] ggf. Glutenfreie Teig-Alternative anbieten
+- [ ] …
+
 # Grundrezept für 2 Pizzen
 
 ## Zutaten
