@@ -9,6 +9,13 @@
 - [ ] diverse Beläge festlegen
 - [ ] ggf. Glutenfreie Teig-Alternative anbieten
 - [ ] …
+- [ ] Ich bin mir unsicher, wie sich die Ruhephase des Teiges ändert, wenn man von 2 Pizzen auf > 10 skaliert. Im Idealfall machen wir einfach >5 mal die im Rezept angegebene Portion einzeln.
+
+# Hardware
+
+- [ ] mind. 2 **Pizza-Öfen**
+- [ ] Frischhaltefolie
+- [ ] Teigkarte(n)
 
 # Grundrezept für 2 Pizzen
 
