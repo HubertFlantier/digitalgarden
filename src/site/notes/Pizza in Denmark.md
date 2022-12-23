@@ -7,15 +7,27 @@
 
 - [ ] Rezept auf 10 Personen skalieren
 - [ ] diverse Beläge festlegen
+	- [ ] Salami
+	- [ ] Kochschinken
+	- [ ] Thunfisch
+	- [ ] Champignons
+	- [ ] rote Zwiebeln
+	- [ ] Paprika
+	- [ ] Mais
+	- [ ] Parmesan
+	- [ ] Rucola
 - [ ] ggf. Glutenfreie Teig-Alternative anbieten
 - [ ] …
 - [ ] Ich bin mir unsicher, wie sich die Ruhephase des Teiges ändert, wenn man von 2 Pizzen auf > 10 skaliert. Im Idealfall machen wir einfach >5 mal die im Rezept angegebene Portion einzeln.
 
-# Hardware
+## Hardware
 
 - [ ] mind. 2 **Pizza-Öfen**
 - [ ] Frischhaltefolie
 - [ ] Teigkarte(n)
+- [ ] ggf. Schüsseln zum Gehen lassen
+- [ ] mehr Mehl + Öl zum Arbeiten
+- [ ] 
 
 # Grundrezept für 2 Pizzen
 
