@@ -5,8 +5,9 @@
 
 # TODOs
 
-- [ ] Rezept auf 10 Personen skalieren
-- [ ] diverse Beläge festlegen
+- [ ] Rezept auf 10 Personen **skalieren**
+	- [ ] Ich bin mir unsicher, wie sich die Ruhephase des Teiges ändert, wenn man von 2 Pizzen auf > 10 skaliert. Im Idealfall machen wir einfach >5 mal die im Rezept angegebene Portion einzeln.
+- [ ] diverse **Beläge** festlegen
 	- [ ] Salami
 	- [ ] Kochschinken
 	- [ ] Thunfisch
@@ -16,9 +17,9 @@
 	- [ ] Mais
 	- [ ] Parmesan
 	- [ ] Rucola
-- [ ] ggf. Glutenfreie Teig-Alternative anbieten
+- [x] ggf. Glutenfreie Teig-Alternative anbieten
+	- [ ] nicht nötig, da der Teig lange geht und wir ggf. einen kleineren Teigling dünner ausrollen
 - [ ] …
-- [ ] Ich bin mir unsicher, wie sich die Ruhephase des Teiges ändert, wenn man von 2 Pizzen auf > 10 skaliert. Im Idealfall machen wir einfach >5 mal die im Rezept angegebene Portion einzeln.
 
 ## Hardware
 
@@ -56,9 +57,9 @@
 
 #### … Salami
 
-- 100-150 g Salami
+- 50-80 g Salami
 - 1 Mozarella
-- 100-150 g Pizzakäse (gerieben)
+- ~100 g Pizzakäse (gerieben)
 
 #### … Thunfisch
 
