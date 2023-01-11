@@ -39,3 +39,8 @@
 1. [ ] Maverick
 2. [ ] Flüge
 3. [ ] ggf. Lissabon 
+4. [ ] Surf-Kurse
+
+# Andere Aktivitäten (?)
+
+- …
