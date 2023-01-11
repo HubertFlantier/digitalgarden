@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/post-workout-shake-high-intensity-1h/"}
 ---
+
 
 … aus "Die Trainingsbibel für Triathleten"
 
