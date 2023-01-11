@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/thunfisch-bowl-2-portionen/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowInlineTitle":false}
+dg-publish: true
 ---
-
 
 |         |          |
 | ------- | -------- |
